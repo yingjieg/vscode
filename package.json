@@ -31,7 +31,8 @@
     "vscode-textmate": "2.0.1",
     "winreg": "1.2.0",
     "xterm": "git+https://github.com/sourcelair/xterm.js.git#65b2be7",
-    "yauzl": "2.3.1"
+    "yauzl": "2.3.1",
+    "request-light": "0.2.3"
   },
   "devDependencies": {
     "async": "^1.4.0",
